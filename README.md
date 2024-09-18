@@ -7,7 +7,7 @@ This is not meant to be a professional document, this is the deranged ramblings 
 # PenguinSonic
 
 
-PenguinSonic is a work-in-progress recreation of Sonic the Hedgehog (1991) in PenguinMod. Its goal is to recreate Sonic the Hedgehog as accurately as possible according to [the disassembly](www.github.com/sonicretro/s1disasm), just to see if it's possible. What is currently completed is found [on the official website](sites.google.com/penguinsonic/progress), or [the official changelog](sites.google.com/penguinsonic/changelog).  
+PenguinSonic is a work-in-progress recreation of Sonic the Hedgehog (1991) in PenguinMod. Its goal is to recreate Sonic the Hedgehog as accurately as possible according to [the disassembly](https://github.com/sonicretro/s1disasm), just to see if it's possible. What is currently completed is found [on the official website](sites.google.com/penguinsonic/progress), or [the official changelog](sites.google.com/penguinsonic/changelog).  
 
 
 ## What is PenguinMod
