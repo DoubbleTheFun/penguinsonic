@@ -7,20 +7,19 @@ This is not meant to be a professional document, this is the deranged ramblings 
 # PenguinSonic
 
 
-PenguinSonic is a work-in-progress recreation of Sonic the Hedgehog (1991) in PenguinMod. Its goal is to recreate Sonic the Hedgehog as accurately as possible according to [the disassembly](https://github.com/sonicretro/s1disasm), just to see if it's possible. What is currently completed is found [on the official website](sites.google.com/penguinsonic/progress), or [the official changelog](sites.google.com/penguinsonic/changelog).  
+PenguinSonic is a work-in-progress recreation of Sonic the Hedgehog (1991) in PenguinMod. Its goal is to recreate Sonic the Hedgehog as accurately as possible according to [the disassembly](https://github.com/sonicretro/s1disasm), just to see if it's possible. What is currently completed is found [on the official website](https://sites.google.com/penguinsonic/progress), or [the official changelog](https://sites.google.com/penguinsonic/changelog).  
 
 
 ## What is PenguinMod
 
 
-Since people may not know, [PenguinMod](penguinmod.com) is a modified version of the [Scratch 3.0](scratch.mit.edu) programming environment, based on the source code of [TurboWarp](www.turbowarp.org) It adds a wide variety of features on top of the quality of life improvements that TurboWarp provides.
+Since people may not know, [PenguinMod](https://penguinmod.com) is a modified version of the [Scratch 3.0](https://scratch.mit.edu) programming environment, based on the source code of [TurboWarp](www.turbowarp.org) It adds a wide variety of features on top of the quality of life improvements that TurboWarp provides.
 
 
 ## How to play PenguinSonic
 
 
-PenguinSonic can be played directly on [PenguinMod.](penguinmod.com) It can also be played on [the game's website](sites.google.com/penguinsonic). For offline use, there is a [separate section of the website](sites.google.com/penguinsonic/downloads) where you can download the game. The recommended download is the HTML5 version that you can open in any browser, but for Windows, an .exe version is also provided.
-
+PenguinSonic can be played directly on [PenguinMod.](penguinmod.com) It can also be played on [the game's website](https://sites.google.com/penguinsonic). For offline use, there is a [separate section of the website](https://sites.google.com/penguinsonic/downloads) where you can download the game.
 
 The first time you play PenguinSonic, the game will require you to provide a copy of _Sonic the Hedgehog_. To provide the file, you have to follow these steps.
 
